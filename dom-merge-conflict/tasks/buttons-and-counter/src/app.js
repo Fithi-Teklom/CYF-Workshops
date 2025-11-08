@@ -20,12 +20,3 @@ export function App() {
 
   return body;
 }
-//body.innerHTML = `
-    // <header>
-    //   <h1>Number Counter</h1>
-    //   <p>A simple counter. Press increment to increase the count by one.</p>
-    // </header>
-    // <main>
-    //   <p id="counter" data-testid="counter">0</p>
-    //   <button id="increment">Increment</button>
-    // </main>
